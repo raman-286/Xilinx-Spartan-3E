@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Raman\Documents\Kickstarter_FPGA\debounce_counter\debounce_counter.ncd
+OUTFILE=C:\Users\Raman\Documents\Kickstarter_FPGA\debounce_counter\debounce_counter.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-4tq144
+WORKINGDIR=C:\Users\Raman\Documents\Kickstarter_FPGA\debounce_counter
+LICENSE=WebPack
+USER_INFO=211442185_0_0_815

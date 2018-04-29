@@ -1,0 +1,2 @@
+vhdl work "debounce_ckt.vhd"
+vhdl work "debounce_counter.vhd"
